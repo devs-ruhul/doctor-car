@@ -1,0 +1,158 @@
+[
+  {
+    "_id": "f93050cd-439a-4894-a50a-89acf023cf2a",
+    "service_id": "04",
+    "title": "Battery Charge",
+    "img": "../src/assets/images/services/4.jpg",
+    "price": "20.00",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque, cum quia laboriosam reprehenderit reiciendis ipsam error dolorem!",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      }
+    ]
+  },
+  {
+    "_id": "06cfd918-4e70-42d6-9255-6c88392b2883",
+    "service_id": "01",
+    "title": "Engine Oil Change",
+    "img": "../src/assets/images/services/1.jpg",
+    "price": "20.00",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque, cum quia laboriosam reprehenderit reiciendis ipsam error dolorem!",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      }
+    ]
+  },
+  {
+    "_id": "70a4fb99-6687-48fd-a840-31b09a518148",
+    "service_id": "03",
+    "title": "Full Car Repair",
+    "img": "../src/assets/images/services/3.jpg",
+    "price": "200.00",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque, cum quia laboriosam reprehenderit reiciendis ipsam error dolorem!",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      }
+    ]
+  },
+  {
+    "_id": "cd6d050e-06f0-401e-94ae-7aff7e1f68cb",
+    "service_id": "05",
+    "title": "Electrical System",
+    "img": "../src/assets/images/services/5.jpg",
+    "price": "20.00",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque, cum quia laboriosam reprehenderit reiciendis ipsam error dolorem!",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      }
+    ]
+  },
+  {
+    "_id": "cd6d050e-06f3-401e-94ae-7aff6e1f63cb",
+    "service_id": "06",
+    "title": "Engine Diagnostics",
+    "img": "../src/assets/images/services/6.jpg",
+    "price": "20.00",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque, cum quia laboriosam reprehenderit reiciendis ipsam error dolorem!",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      }
+    ]
+  },
+  {
+    "_id": "cd6d450e-06f0-401e-94ae-2aff7e5f68cb",
+    "service_id": "02",
+    "title": "Auto Car Repair",
+    "img": "../src/assets/images/services/2.jpg",
+    "price": "20.00",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque, cum quia laboriosam reprehenderit reiciendis ipsam error dolorem!",
+    "facility": [
+      {
+        "name": "Instant Car Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "24/7 Quality Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Easy Customer Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      },
+      {
+        "name": "Quality Cost Service",
+        "details": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam eveniet nobis itaque"
+      }
+    ]
+  }
+]
